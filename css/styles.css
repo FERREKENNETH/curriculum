@@ -1,0 +1,61 @@
+/* Normalize */
+html, body {
+  height: 100%;
+}
+
+/* Helpers */
+.forced-gapless {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.align-start {
+  align-items: flex-start !important;
+}
+
+/* Classes */
+.icon-text {
+  line-height: 1;
+}
+
+.habilidad {
+  line-height: 2 !important;
+  margin-bottom: 0 !important;
+  font-size: 150% !important;
+}
+
+.footer {
+  padding: 40px 20px;
+}
+
+/* IDS */
+#name {
+  margin-top: 30px;
+}
+
+#lista a {
+  padding-left: 0;
+}
+
+#habilidades {
+  padding: 0 10px;
+}
+
+#margen{
+  padding-top: 2px;
+}
+
+.upp{
+  margin-top: -15px;
+}
+
+p {
+  font-size: 130% !important;
+}
+h4,h2, h1 {
+  font-size: 180% !important;
+}
+
+.underlineh4{
+  text-decoration: underline;
+}
